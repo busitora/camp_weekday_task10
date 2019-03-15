@@ -3,7 +3,21 @@
 one:
   zipcode: MyString
   prefcode: MyString
+  address1: MyString
+  address2: MyString
+  address3: MyString
+  kana1: MyString
+  kana2: MyString
+  kana3: MyString
+  introduction: MyText
 
 two:
   zipcode: MyString
   prefcode: MyString
+  address1: MyString
+  address2: MyString
+  address3: MyString
+  kana1: MyString
+  kana2: MyString
+  kana3: MyString
+  introduction: MyText
